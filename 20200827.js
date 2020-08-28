@@ -1,6 +1,7 @@
 //# sourceURL=utils.js
 'use strict';
 
+//smoke8
 function getComponent(componentName) {
 	var componentAccessor = Java.type("com.atlassian.jira.component.ComponentAccessor");
 	var clazz = Java.type("java.lang.Class")
