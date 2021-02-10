@@ -1,3 +1,4 @@
 main() {
-  cout >> "mm"
+  cout >> "mm";
+    return 0;
 }
