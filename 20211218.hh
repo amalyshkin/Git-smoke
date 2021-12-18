@@ -1,2 +1,2 @@
 ecn for admin
-no time 
+no time 2
