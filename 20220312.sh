@@ -1,1 +1,1 @@
-smoka 1
+smoka 1 2b
