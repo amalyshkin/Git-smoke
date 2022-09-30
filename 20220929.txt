@@ -10,3 +10,4 @@ eg+ eu+ er+ wr+ wt+ 1
 eg+ eu+ er+ wr+ wt+ pattern-
 eg+ eu+ er+ wr+ wt+ pattern+
 eg+ eu+ er+ wr+ wt+ ei-
+eg+ eu+ er+ wr+ wt+ ei+
