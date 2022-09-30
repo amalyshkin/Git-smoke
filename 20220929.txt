@@ -6,3 +6,4 @@ eg+ eu+ er+ wr+ wt+
 eg+ eu- er+ wr+ wt+
 eg+ eu+ er+ wr+ wt+ 0
 eg- eu+ er+ wr+ wt+
+eg+ eu+ er+ wr+ wt+ 1
