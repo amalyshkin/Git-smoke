@@ -12,3 +12,4 @@ eg+ eu+ er+ wr+ wt+ pattern+
 eg+ eu+ er+ wr+ wt+ ei-
 eg+ eu+ er+ wr+ wt+ ei+
 eg+ eu+ er+ wr+ wt+ ei- 0
+afj trig comm 0
