@@ -14,3 +14,4 @@ eg+ eu+ er+ wr+ wt+ ei+
 eg+ eu+ er+ wr+ wt+ ei- 0
 afj trig comm 0
 afj trig comm 2
+afj trig comm 6
