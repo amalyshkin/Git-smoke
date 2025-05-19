@@ -1,4 +1,4 @@
 update 1 2
 email 1 no4int 2 no4rep 1 2
 wh 1
-smart 1
+smart 1 2
